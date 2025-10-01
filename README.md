@@ -15,7 +15,7 @@ A full-stack trading analysis platform for screening, scoring, and managing stoc
 - **Responsive UI:** Works on desktop and mobile, with a modern dark theme.
 
 ## Demo
-![Platform Demo](./Demo.gif)
+![Platform Demo](./demo.gif)
 
 ## Codebase Structure
 ```
@@ -70,4 +70,5 @@ strategies (id, user_id, name, config, ...)
 5. **Analyze & Score:** Instantly see color-coded scores and rankings for all stocks.
 
 ---
+
 
